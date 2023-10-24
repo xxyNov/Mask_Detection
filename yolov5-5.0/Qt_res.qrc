@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="image">
+    <file>demo/1679138485553.jpg</file>
+    <file>demo/1679138485537.jpg</file>
+    <file>demo/a26776ca5e0244236374bfad7e5ccfd.jpg</file>
+    <file>demo/fd3427514cb77e1f11e37a0d7758071.jpg</file>
+    <file>demo/1679135211413.jpg</file>
+    <file>demo/1679133711733.jpg</file>
+    <file>demo/1679133678143.jpg</file>
+    <file>demo/1679133305883.jpg</file>
+    <file>demo/1.png</file>
+    <file>demo/1679036732608.jpg</file>
+    <file>demo/23c81bc848f87ae480ab8d267acfade.png</file>
+    <file>demo/41fcb7a2603e2ab8b56e2c4d42a3c15.png</file>
+    <file>demo/a58752e8731fdbbbd07c8fbb3d6b31f.png</file>
+    <file>demo/1679030885549.jpg</file>
+    <file>demo/1679030932956.jpg</file>
+    <file>demo/1679030981360.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>demo/6ed0b895359d7e8d78bf3e061e1a4f8.png</file>
+    <file>demo/lq.jpg</file>
+  </qresource>
+  <qresource/>
+</RCC>

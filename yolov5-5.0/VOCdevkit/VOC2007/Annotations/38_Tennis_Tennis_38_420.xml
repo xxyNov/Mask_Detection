@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>38_Tennis_Tennis_38_420.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>684</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>nomask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>640</xmin>
+				<ymin>52</ymin>
+				<xmax>692</xmax>
+				<ymax>126</ymax>
+			</bndbox>
+		</object>
+	</annotation>
